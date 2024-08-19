@@ -25,7 +25,8 @@ Technologies Used
 
 
                                  
-![tas_kagit_makas](https://github.com/user-attachments/assets/0a771aea-c1be-431b-9c41-c4d8806d0efa)
+![tas_kagit_makas](https://github.com/user-attachments/assets/0dda8ca1-591d-4403-aaf9-672ae26812a8)
+
 
 
 
