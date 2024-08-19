@@ -1,2 +1,2 @@
 # Tas-Kagit-Makas
- Python ile geliştirilmiş taş-kağıt-makas oyunudur.
+ Python ile geliştirilmiş taş-kağıt-makas oyunudur..
