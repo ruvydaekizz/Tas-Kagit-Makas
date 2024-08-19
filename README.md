@@ -22,6 +22,9 @@ Technologies Used
 - Python (Terminal veya IDE (Jupyter Notebook, Google Colab gibi) üzerinden yönergeleri takip ederek oyunu oynayın.)
 
 Örnek Oynanış
+
+
+                                 
 ![tas_kagit_makas](https://github.com/user-attachments/assets/0a771aea-c1be-431b-9c41-c4d8806d0efa)
 
 
