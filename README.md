@@ -18,7 +18,7 @@ Oyun Kuralları
 - Skor Takibi: Oyun, oyuncunun ve bilgisayarın kazandığı oyun sayısını takip eder.
 - Tekrar Oynama Seçeneği: Her oyunun ardından, oyuncuya tekrar oynamak isteyip istemediği sorulur.
 
-Technologies Used
+Kullanılan Teknolojiler
 - Python (Terminal veya IDE (Jupyter Notebook, Google Colab gibi) üzerinden yönergeleri takip ederek oyunu oynayın.)
 
 Örnek Oynanış
